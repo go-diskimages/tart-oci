@@ -1,0 +1,8 @@
+github.com/go-compressions/lz4 v0.0.0-20260703073218-72dcde751ddc h1:JtRXW7ASi3KNetsVL0WMwQec1/vA9Yacpv3XjKldNjw=
+github.com/go-compressions/lz4 v0.0.0-20260703073218-72dcde751ddc/go.mod h1:ix+zOThuKPTkLKMXNPWcUIkC5Pz4BnmGCmozS6p42Rw=
+github.com/go-simd/matchlen v0.3.1 h1:HKyOis1LaXPGEr8esAj8wkOhrjK7W24P7RlMYbTHyk4=
+github.com/go-simd/matchlen v0.3.1/go.mod h1:h95M7Ih4MZqO1+Dir0S+joy170I4NrPYaqQFInebWzo=
+github.com/pierrec/lz4/v4 v4.1.27 h1:+PhzhWDrjRj89TH2sw43nE3+4+W8lSxIuQadEHZyjUk=
+github.com/pierrec/lz4/v4 v4.1.27/go.mod h1:EoQMVJgeeEOMsCqCzqFm2O0cJvljX2nGZjcRIPL34O4=
+golang.org/x/sys v0.46.0 h1:noSf2Fq6F8DBgS+LysIkx7rIExoNHJsxOAtPp4rthXw=
+golang.org/x/sys v0.46.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
