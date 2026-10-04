@@ -1,6 +1,6 @@
 module github.com/go-diskimages/tart-oci
 
-go 1.26.4
+go 1.27.1
 
 require github.com/go-compressions/lz4 v0.2.0
 
