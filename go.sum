@@ -1,10 +1,10 @@
 github.com/go-compressions/appleoracle v0.1.0 h1:y+n8/DkELQSBpKuJYk8/AqPti8RQHu6aZ3HlYXx8rsc=
 github.com/go-compressions/appleoracle v0.1.0/go.mod h1:RiGYXHs53BFJKPfHJebEXP6qClJAnNBDYbR16rPb+CY=
-github.com/go-compressions/lz4 v0.2.0 h1:ALBGsnIBJEWalCRFPDPptK6y0OPo1fgWpjmdTcBzxxc=
-github.com/go-compressions/lz4 v0.2.0/go.mod h1:5HdjHdkHzXY414dtiXSika6id0/BPAtjEZyWY+VX4E0=
+github.com/go-compressions/lz4 v0.3.0 h1:u6ts5CKyuyw3ULh3FgRKymwzhtOK+K2MOK7uwFTLnOs=
+github.com/go-compressions/lz4 v0.3.0/go.mod h1:o2p4iXyDFRLarSi5VwH/Z+3WGyWPUq/0LufT9/dUAew=
 github.com/go-simd/matchlen v0.3.1 h1:HKyOis1LaXPGEr8esAj8wkOhrjK7W24P7RlMYbTHyk4=
 github.com/go-simd/matchlen v0.3.1/go.mod h1:h95M7Ih4MZqO1+Dir0S+joy170I4NrPYaqQFInebWzo=
-github.com/pierrec/lz4/v4 v4.1.30 h1:cchX8N2DVP668WkElI9QMwVyoNabLkq1LofDHFeIrdg=
-github.com/pierrec/lz4/v4 v4.1.30/go.mod h1:EoQMVJgeeEOMsCqCzqFm2O0cJvljX2nGZjcRIPL34O4=
+github.com/pierrec/lz4/v4 v4.1.33 h1:GjG1TJ1V4IzKP8L96muuuDNpTwd7D+l2ccXrjAbe014=
+github.com/pierrec/lz4/v4 v4.1.33/go.mod h1:7SE9MC2STkNtL4PIwGhjmyVwvILaGI9/COYQNBhKM/c=
 golang.org/x/sys v0.46.0 h1:noSf2Fq6F8DBgS+LysIkx7rIExoNHJsxOAtPp4rthXw=
 golang.org/x/sys v0.46.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
