@@ -2,7 +2,7 @@ module github.com/go-diskimages/tart-oci
 
 go 1.27.1
 
-require github.com/go-compressions/lz4 v0.5.1
+require github.com/go-compressions/lz4 v0.6.0
 
 require (
 	github.com/go-simd/matchlen v0.5.0 // indirect
